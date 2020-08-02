@@ -26,15 +26,11 @@
   </a>
   </p>
 </div>
-
-
 </br>
----- 
-Hi, I'm Prasanth, 
 I'm a Web Developer from India. 
 **A book lover** 📕
 * 👽 Learning any tecnology that apears on my way.
-----
+</br>
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -42,15 +38,12 @@ I'm a Web Developer from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-----
+</br>
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 
 ![Prasanth GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasanth22&show_icons=true)
 
 -------
-.
-
-
 <!--
 **prasanth22/prasanth22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
