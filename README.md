@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey 👋 I'm Prasanth</h1>
-  <p>
+  <p align="center">
    <a target="_blank" href="https://www.linkedin.com/in/maddu-prasanth-b92198135/">
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -27,11 +27,14 @@
   </p>
 </div>
 </br>
-I'm a Web Developer from India. 
-**A book lover** 📕
-* 👽 Learning any tecnology that apears on my way.
 </br>
-**Languages and Tools:**  
+<p>
+I'm a Web Developer from India. 
+*A book lover 📕
+*Learning any tecnology that apears on my way.
+</p>
+</br>
+Languages and Tools: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
