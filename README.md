@@ -27,11 +27,10 @@
   </p>
 </div>
 </br>
-</br>
 <p>
 I'm a Web Developer from India. 
-*A book lover 📕
-*Learning any tecnology that apears on my way.
+A book lover 📕
+Learning any tecnology that apears on my way.
 </p>
 </br>
 Languages and Tools: 
