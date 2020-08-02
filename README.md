@@ -27,10 +27,9 @@
   </p>
 </div>
 </br>
-<p>
-I'm a Web Developer from India. 
-A book lover 📕
-Learning any tecnology that apears on my way.
+<p>I'm a Web Developer from India. </p>
+<p>A book lover 📕</p>
+<p>Learning any tecnology that apears on my way.</p>
 </p>
 </br>
 Languages and Tools: 
